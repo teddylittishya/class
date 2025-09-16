@@ -151,7 +151,7 @@ git checkout <branch_name>
 git log --oneline
 ```
 
-✅ **Workflow Summary**:
+**Workflow Summary**:
 
 1. Set up Git and SSH
 2. Clone repo using SSH
